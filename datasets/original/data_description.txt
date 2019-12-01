@@ -179,6 +179,8 @@ YearBuilt: Original construction date
 
 YearRemodAdd: Remodel date (same as construction date if no remodeling or additions)
 
+Remod: Tells if the house has been remodeled
+
 RoofStyle: Type of roof
 
        Flat	Flat
