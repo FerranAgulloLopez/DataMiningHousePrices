@@ -251,6 +251,8 @@ MasVnrType: Masonry veneer type
 	
 MasVnrArea: Masonry veneer area in square feet
 
+MasVnr: Shows if the house has masonry veneer
+
 ExterQual: Evaluates the quality of the material on the exterior 
 		
        Ex	Excellent
