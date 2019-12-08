@@ -480,7 +480,9 @@ PoolQC: Pool quality
        TA	Average/Typical
        Fa	Fair
        NA	No Pool
-		
+
+Pool: Shows if the house has a pool or not.
+
 Fence: Fence quality
 		
        GdPrv	Good Privacy
